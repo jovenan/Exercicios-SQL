@@ -1,7 +1,7 @@
 /*
 AtividadeScripGeral
 
-Jonatas Venancio     RA: N4581B6      turma: cc3q17
+Jonatas Venancio      turma: cc3q17
 */
 
 drop table if exists TB_Cliente;
