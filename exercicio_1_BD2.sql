@@ -1,5 +1,5 @@
 /*
-Jonatas Venancio     RA: N4581B6      4º Semestre Ciências da Computação
+Jonatas Venancio   4Âº Semestre CiÃªncias da ComputaÃ§Ã£o
 */
 
 create database Empresa;
